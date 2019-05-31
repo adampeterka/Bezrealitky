@@ -2,6 +2,6 @@
 
 # Bezrealitky README
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+This project retrieves data from Bezrealitky.cz and makes simple data analysis and visualizations. It can be used to scan the real-estate market in Prague, Czech Republic.
 
 ## Examples
