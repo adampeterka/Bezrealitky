@@ -1,3 +1,4 @@
+#import of used libraries
 import requests
 from requests import get
 from bs4 import BeautifulSoup
@@ -14,7 +15,9 @@ import urllib
 
 class bezrea_Web:
     '''
-    class with functions extracting values of interest for each offer
+    functions in class take url link as parametr
+
+    used to scrape Type, Region and District of offer in link
     '''
     def __init__(self,link,allowLog=True):
         self.allowLog = allowLog
@@ -27,7 +30,7 @@ class bezrea_Web:
     
     def parseType(self):
         '''
-        extract types of offers
+        extracts type of offer provided in self parameter
         '''
         pdTbl = pd.read_html(self,attrs= {"class":"table"})
         atype = pdTbl[0][1][2]
@@ -35,7 +38,7 @@ class bezrea_Web:
     
     def parseRegion(self):
         '''
-        extract region of offer
+        extracts region of offer provided in self parameter
         '''
         web = urllib.request.urlopen(self)
         soup = BeautifulSoup(web,'lxml')
@@ -44,7 +47,7 @@ class bezrea_Web:
     
     def parseDistrict(self):
         '''
-        extract district of offer
+        extracts district of offer provided in self parameter
         '''
         web = urllib.request.urlopen(self)
         soup = BeautifulSoup(web,'lxml')
