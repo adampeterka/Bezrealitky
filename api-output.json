@@ -1,5 +1,2237 @@
 [
     {
+        "id" = "564538", 
+        "uri" = "564538-nabidka-prodej-bytu-roznavska-olomouc", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 12:10:05.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":49.576047099999997,\"lng\":17.252467900000056}", 
+                "price" = 3400000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-1", 
+                "surface" = 82, 
+                "id" = "564538"
+            }
+        ]
+    }, 
+    {
+        "id" = "564537", 
+        "uri" = "564537-nabidka-prodej-bytu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 12:05:50.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.080699199999998,\"lng\":14.404110800000012}", 
+                "price" = 4500000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-1", 
+                "surface" = 45, 
+                "id" = "564537"
+            }
+        ]
+    }, 
+    {
+        "id" = "564536", 
+        "uri" = "564536-nabidka-prodej-bytu-palackeho-trida-pardubice", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 12:04:30.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.0344761,\"lng\":15.760483199999953}", 
+                "price" = 3690000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "4-kk", 
+                "surface" = 98, 
+                "id" = "564536"
+            }
+        ]
+    }, 
+    {
+        "id" = "564533", 
+        "uri" = "564533-nabidka-prodej-bytu-ujezd-hlavni-mesto-praha", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 11:54:50.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.080699199999998,\"lng\":14.404110800000012}", 
+                "price" = 17000000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "ostatni", 
+                "surface" = 100, 
+                "id" = "564533"
+            }
+        ]
+    }, 
+    {
+        "id" = "564530", 
+        "uri" = "564530-nabidka-prodej-bytu-ujezd-hlavni-mesto-praha", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 11:41:40.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.080699199999998,\"lng\":14.404110800000012}", 
+                "price" = 3500000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564530"
+            }
+        ]
+    }, 
+    {
+        "id" = "564524", 
+        "uri" = "564524-nabidka-prodej-bytu-lesni-roudne", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 11:02:55.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":48.936944099999998,\"lng\":14.475937299999941}", 
+                "price" = 4295000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "5-kk", 
+                "surface" = 103, 
+                "id" = "564524"
+            }
+        ]
+    }, 
+    {
+        "id" = "564522", 
+        "uri" = "564522-nabidka-prodej-bytu-ujezd-hlavni-mesto-praha", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 11:15:55.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.080699199999998,\"lng\":14.404110800000012}", 
+                "price" = 3700000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 36, 
+                "id" = "564522"
+            }
+        ]
+    }, 
+    {
+        "id" = "564505", 
+        "uri" = "564505-nabidka-prodej-bytu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 09:03:32.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":49.595506399999998,\"lng\":17.997482799999943}", 
+                "price" = 1550000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-1", 
+                "surface" = 53, 
+                "id" = "564505"
+            }
+        ]
+    }, 
+    {
+        "id" = "564503", 
+        "uri" = "564503-nabidka-prodej-bytu-jakubska-hlavni-mesto-praha", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 09:10:33.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.088363000000001,\"lng\":14.425943599999982}", 
+                "price" = 12950000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 110, 
+                "id" = "564503"
+            }
+        ]
+    }, 
+    {
+        "id" = "564492", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25673-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-24 02:08:04.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 8210000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "4-kk", 
+                "surface" = 97, 
+                "id" = "564492"
+            }
+        ]
+    }, 
+    {
+        "id" = "564491", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25672-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-28 02:07:56.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 6788000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 76, 
+                "id" = "564491"
+            }
+        ]
+    }, 
+    {
+        "id" = "564490", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25671-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-30 02:07:48.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 6567000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 77, 
+                "id" = "564490"
+            }
+        ]
+    }, 
+    {
+        "id" = "564489", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25670-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-18 02:07:40.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 6537000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 72, 
+                "id" = "564489"
+            }
+        ]
+    }, 
+    {
+        "id" = "564488", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25669-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-23 02:07:32.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 6303000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 74, 
+                "id" = "564488"
+            }
+        ]
+    }, 
+    {
+        "id" = "564487", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25668-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-18 02:07:25.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 6078000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 71, 
+                "id" = "564487"
+            }
+        ]
+    }, 
+    {
+        "id" = "564486", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25667-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-11 02:07:18.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5958000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 80, 
+                "id" = "564486"
+            }
+        ]
+    }, 
+    {
+        "id" = "564485", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25666-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-02 02:07:10.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5951000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 80, 
+                "id" = "564485"
+            }
+        ]
+    }, 
+    {
+        "id" = "564484", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25665-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-05 02:07:03.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5931000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 77, 
+                "id" = "564484"
+            }
+        ]
+    }, 
+    {
+        "id" = "564483", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25664-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-27 02:06:56.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5920000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 80, 
+                "id" = "564483"
+            }
+        ]
+    }, 
+    {
+        "id" = "564482", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25663-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-27 02:06:47.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5822000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 74, 
+                "id" = "564482"
+            }
+        ]
+    }, 
+    {
+        "id" = "564481", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25662-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-11 02:06:40.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5812000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 72, 
+                "id" = "564481"
+            }
+        ]
+    }, 
+    {
+        "id" = "564480", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25661-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-23 02:06:32.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5759000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 77, 
+                "id" = "564480"
+            }
+        ]
+    }, 
+    {
+        "id" = "564479", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25660-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-06 02:06:25.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5706000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 71, 
+                "id" = "564479"
+            }
+        ]
+    }, 
+    {
+        "id" = "564478", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25659-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-03 02:06:18.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5419000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 70, 
+                "id" = "564478"
+            }
+        ]
+    }, 
+    {
+        "id" = "564477", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25658-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-27 02:06:11.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5285000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 60, 
+                "id" = "564477"
+            }
+        ]
+    }, 
+    {
+        "id" = "564476", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25657-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-16 02:06:03.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5282000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 71, 
+                "id" = "564476"
+            }
+        ]
+    }, 
+    {
+        "id" = "564475", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25656-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-21 02:05:56.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5273000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 68, 
+                "id" = "564475"
+            }
+        ]
+    }, 
+    {
+        "id" = "564474", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25655-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-19 02:05:47.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5174000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 69, 
+                "id" = "564474"
+            }
+        ]
+    }, 
+    {
+        "id" = "564473", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25654-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-02 02:05:40.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5169000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 66, 
+                "id" = "564473"
+            }
+        ]
+    }, 
+    {
+        "id" = "564472", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25653-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-08 02:05:33.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 5147000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 69, 
+                "id" = "564472"
+            }
+        ]
+    }, 
+    {
+        "id" = "564471", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25652-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-01 02:05:26.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4998000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 55, 
+                "id" = "564471"
+            }
+        ]
+    }, 
+    {
+        "id" = "564470", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25651-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-19 02:05:19.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4983000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 60, 
+                "id" = "564470"
+            }
+        ]
+    }, 
+    {
+        "id" = "564469", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25650-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-04 02:05:11.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4937000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 61, 
+                "id" = "564469"
+            }
+        ]
+    }, 
+    {
+        "id" = "564468", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25649-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-20 02:05:04.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4912000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 61, 
+                "id" = "564468"
+            }
+        ]
+    }, 
+    {
+        "id" = "564467", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25648-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-19 02:04:56.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4899000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 60, 
+                "id" = "564467"
+            }
+        ]
+    }, 
+    {
+        "id" = "564466", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25647-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-19 02:04:49.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4875000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 60, 
+                "id" = "564466"
+            }
+        ]
+    }, 
+    {
+        "id" = "564465", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25646-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-22 02:04:41.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4839000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 58, 
+                "id" = "564465"
+            }
+        ]
+    }, 
+    {
+        "id" = "564464", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25645-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-13 02:04:34.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4725000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 51, 
+                "id" = "564464"
+            }
+        ]
+    }, 
+    {
+        "id" = "564463", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25644-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-04 02:04:27.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4665000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564463"
+            }
+        ]
+    }, 
+    {
+        "id" = "564462", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25643-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-05 02:04:20.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4651000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564462"
+            }
+        ]
+    }, 
+    {
+        "id" = "564461", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25642-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-03 02:04:13.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4599000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564461"
+            }
+        ]
+    }, 
+    {
+        "id" = "564460", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25641-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-10 02:04:06.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4598000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 51, 
+                "id" = "564460"
+            }
+        ]
+    }, 
+    {
+        "id" = "564459", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25640-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-22 02:03:59.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4576000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 51, 
+                "id" = "564459"
+            }
+        ]
+    }, 
+    {
+        "id" = "564458", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25639-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-27 02:03:52.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4576000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 51, 
+                "id" = "564458"
+            }
+        ]
+    }, 
+    {
+        "id" = "564457", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25638-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-25 02:03:45.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4567000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 47, 
+                "id" = "564457"
+            }
+        ]
+    }, 
+    {
+        "id" = "564456", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25637-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-20 02:03:38.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4567000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 47, 
+                "id" = "564456"
+            }
+        ]
+    }, 
+    {
+        "id" = "564455", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25636-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-27 02:03:31.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4543000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 53, 
+                "id" = "564455"
+            }
+        ]
+    }, 
+    {
+        "id" = "564454", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25635-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-03 02:03:24.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4534000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564454"
+            }
+        ]
+    }, 
+    {
+        "id" = "564453", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25634-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-11 02:03:17.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4520000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564453"
+            }
+        ]
+    }, 
+    {
+        "id" = "564452", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25633-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-26 02:03:10.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4463000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 53, 
+                "id" = "564452"
+            }
+        ]
+    }, 
+    {
+        "id" = "564451", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25632-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-18 02:03:03.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4441000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 48, 
+                "id" = "564451"
+            }
+        ]
+    }, 
+    {
+        "id" = "564450", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25631-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-06 02:02:56.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4412000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564450"
+            }
+        ]
+    }, 
+    {
+        "id" = "564449", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25630-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-22 02:02:49.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4411000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 49, 
+                "id" = "564449"
+            }
+        ]
+    }, 
+    {
+        "id" = "564448", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25629-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-09 02:02:42.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4370000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 48, 
+                "id" = "564448"
+            }
+        ]
+    }, 
+    {
+        "id" = "564447", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25628-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-22 02:02:35.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4350000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 51, 
+                "id" = "564447"
+            }
+        ]
+    }, 
+    {
+        "id" = "564446", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25627-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-05 02:02:28.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4348000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 51, 
+                "id" = "564446"
+            }
+        ]
+    }, 
+    {
+        "id" = "564445", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25626-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-23 02:02:21.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4311000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 51, 
+                "id" = "564445"
+            }
+        ]
+    }, 
+    {
+        "id" = "564444", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25625-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-23 02:02:13.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4266000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 49, 
+                "id" = "564444"
+            }
+        ]
+    }, 
+    {
+        "id" = "564443", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25624-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-25 02:02:06.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4253000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564443"
+            }
+        ]
+    }, 
+    {
+        "id" = "564442", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25623-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-04 02:02:00.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4244000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 48, 
+                "id" = "564442"
+            }
+        ]
+    }, 
+    {
+        "id" = "564441", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25622-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-30 02:01:53.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4228000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 48, 
+                "id" = "564441"
+            }
+        ]
+    }, 
+    {
+        "id" = "564440", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25621-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-09 02:01:46.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4214000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 49, 
+                "id" = "564440"
+            }
+        ]
+    }, 
+    {
+        "id" = "564439", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25620-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-27 02:01:38.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4211000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564439"
+            }
+        ]
+    }, 
+    {
+        "id" = "564438", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25619-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-18 02:01:32.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4211000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 50, 
+                "id" = "564438"
+            }
+        ]
+    }, 
+    {
+        "id" = "564437", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25618-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-27 02:01:25.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 4195000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 49, 
+                "id" = "564437"
+            }
+        ]
+    }, 
+    {
+        "id" = "564436", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25617-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-21 02:01:18.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3973000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 47, 
+                "id" = "564436"
+            }
+        ]
+    }, 
+    {
+        "id" = "564435", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25616-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-30 02:01:11.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3305000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 34, 
+                "id" = "564435"
+            }
+        ]
+    }, 
+    {
+        "id" = "564434", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25615-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-18 02:01:04.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3291000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 32, 
+                "id" = "564434"
+            }
+        ]
+    }, 
+    {
+        "id" = "564433", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25614-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-17 02:00:57.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3257000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 34, 
+                "id" = "564433"
+            }
+        ]
+    }, 
+    {
+        "id" = "564432", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25613-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-06 02:00:49.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3243000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 34, 
+                "id" = "564432"
+            }
+        ]
+    }, 
+    {
+        "id" = "564431", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25612-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-14 02:00:40.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3233000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 34, 
+                "id" = "564431"
+            }
+        ]
+    }, 
+    {
+        "id" = "564430", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25611-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-22 02:00:32.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3185000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 34, 
+                "id" = "564430"
+            }
+        ]
+    }, 
+    {
+        "id" = "564429", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25610-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-18 02:00:25.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3177000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564429"
+            }
+        ]
+    }, 
+    {
+        "id" = "564428", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25609-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-25 02:00:18.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3129000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564428"
+            }
+        ]
+    }, 
+    {
+        "id" = "564427", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25608-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-31 03:00:11.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3020000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564427"
+            }
+        ]
+    }, 
+    {
+        "id" = "564426", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25607-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-25 02:00:04.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3011000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564426"
+            }
+        ]
+    }, 
+    {
+        "id" = "564425", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25606-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-16 01:59:58.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3010000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 31, 
+                "id" = "564425"
+            }
+        ]
+    }, 
+    {
+        "id" = "564424", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25605-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-27 01:59:51.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 3009000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 32, 
+                "id" = "564424"
+            }
+        ]
+    }, 
+    {
+        "id" = "564423", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25604-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-22 01:59:44.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2993000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 31, 
+                "id" = "564423"
+            }
+        ]
+    }, 
+    {
+        "id" = "564422", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25603-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-12 01:59:37.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2991000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564422"
+            }
+        ]
+    }, 
+    {
+        "id" = "564421", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25602-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-28 01:59:30.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2987000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564421"
+            }
+        ]
+    }, 
+    {
+        "id" = "564420", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25601-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-16 01:59:23.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2980000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 31, 
+                "id" = "564420"
+            }
+        ]
+    }, 
+    {
+        "id" = "564419", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25600-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-17 01:59:17.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2958000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 29, 
+                "id" = "564419"
+            }
+        ]
+    }, 
+    {
+        "id" = "564418", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25599-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-05 01:59:10.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2879000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564418"
+            }
+        ]
+    }, 
+    {
+        "id" = "564417", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25598-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-04-02 01:59:04.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2845000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564417"
+            }
+        ]
+    }, 
+    {
+        "id" = "564416", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/705-ekorezidence-hodkovicky/25597-ekorezidence-hodkovicky#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-03-21 01:58:57.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0210339406\",\"lng\":\"14.4022692238\"}", 
+                "price" = 2819000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "1-kk", 
+                "surface" = 30, 
+                "id" = "564416"
+            }
+        ]
+    }, 
+    {
+        "id" = "564393", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/625/24562#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-06-12 01:05:07.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0611878803\",\"lng\":\"14.3669974656\"}", 
+                "price" = 12750000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "4-kk", 
+                "surface" = 117, 
+                "id" = "564393"
+            }
+        ]
+    }, 
+    {
+        "id" = "564392", 
+        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/625/24563#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "iDeveloper", 
+        "timeOrder" = {
+            "date" = "2019-05-17 01:04:43.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":\"50.0611878803\",\"lng\":\"14.3669974656\"}", 
+                "price" = 9896000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "3-kk", 
+                "surface" = 102, 
+                "id" = "564392"
+            }
+        ]
+    }, 
+    {
+        "id" = "564387", 
+        "uri" = "564387-nabidka-prodej-bytu-mirova-kralovice", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-13 23:31:07.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":49.983715799999999,\"lng\":13.486719900000026}", 
+                "price" = 1800000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-1", 
+                "surface" = 62, 
+                "id" = "564387"
+            }
+        ]
+    }, 
+    {
+        "id" = "564385", 
+        "uri" = "564385-nabidka-prodej-bytu-jilove-u-prahy", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-13 23:28:35.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":49.877790913873426,\"lng\":14.500581465606729}", 
+                "price" = 2200000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 44, 
+                "id" = "564385"
+            }
+        ]
+    }, 
+    {
+        "id" = "564376", 
+        "uri" = "564376-nabidka-prodej-bytu-armadniho-generala-ludvika-svobody-studenka", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-13 22:21:09.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":49.7172798,\"lng\":18.055082699999957}", 
+                "price" = 1, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "4-1", 
+                "surface" = 96, 
+                "id" = "564376"
+            }
+        ]
+    }, 
+    {
+        "id" = "564368", 
+        "uri" = "564368-nabidka-prodej-bytu-holysovska", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-13 21:15:15.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.041018800000003,\"lng\":14.319765400000051}", 
+                "price" = 5360000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 60, 
+                "id" = "564368"
+            }
+        ]
+    }, 
+    {
+        "id" = "564362", 
+        "uri" = "564362-nabidka-prodej-bytu-krasnoarmejcu-ostrava-mesto", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-13 20:54:48.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":49.786807400000001,\"lng\":18.234545600000047}", 
+                "price" = 850000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-1", 
+                "surface" = 56, 
+                "id" = "564362"
+            }
+        ]
+    }, 
+    {
         "id" = "564350", 
         "uri" = "564350-nabidka-prodej-bytu-jana-amose-komenskeho-teplice", 
         "keyAdvertType" = "estate_offer", 
@@ -20,6 +2252,30 @@
                 "keyDisposition" = "1-1", 
                 "surface" = 36, 
                 "id" = "564350"
+            }
+        ]
+    }, 
+    {
+        "id" = "564348", 
+        "uri" = "564348-nabidka-prodej-bytu-lindavska-hlavni-mesto-praha", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-14 05:33:21.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.129104645343169,\"lng\":14.433194419049073}", 
+                "price" = 2000000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 41, 
+                "id" = "564348"
             }
         ]
     }, 
@@ -85,7 +2341,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":49.744287999999997,\"lng\":13.325003899999956}", 
-                "price" = 3199999, 
+                "price" = 2650000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -1392,30 +3648,6 @@
         ]
     }, 
     {
-        "id" = "563974", 
-        "uri" = "563974-nabidka-prodej-bytu", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-06-11 10:38:34.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.013785800000001,\"lng\":14.446537199999966}", 
-                "price" = 3500000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 44, 
-                "id" = "563974"
-            }
-        ]
-    }, 
-    {
         "id" = "563961", 
         "uri" = "563961-nabidka-prodej-bytu-jizerska-liberec", 
         "keyAdvertType" = "estate_offer", 
@@ -2328,30 +4560,6 @@
         ]
     }, 
     {
-        "id" = "563759", 
-        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/625/24583#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "iDeveloper", 
-        "timeOrder" = {
-            "date" = "2019-03-14 01:04:28.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":\"50.0611878803\",\"lng\":\"14.3669974656\"}", 
-                "price" = 8497000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "3-kk", 
-                "surface" = 81, 
-                "id" = "563759"
-            }
-        ]
-    }, 
-    {
         "id" = "563748", 
         "uri" = "563748-nabidka-prodej-bytu-petruskova-ostrava-mesto", 
         "keyAdvertType" = "estate_offer", 
@@ -2381,7 +4589,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-08 20:47:43.000000", 
+            "date" = "2019-06-14 10:10:04.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -2745,7 +4953,7 @@
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
-        "orderPriority" = 1, 
+        "orderPriority" = 0, 
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":49.822106599999998,\"lng\":18.125022800000011}", 
@@ -2760,30 +4968,6 @@
         ]
     }, 
     {
-        "id" = "563611", 
-        "uri" = "563611-nabidka-prodej-bytu-sokolovska-plzen-mesto", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-06-12 09:30:03.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 1, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":49.773770900000002,\"lng\":13.370591300000001}", 
-                "price" = 2400000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "3-1", 
-                "surface" = 65, 
-                "id" = "563611"
-            }
-        ]
-    }, 
-    {
         "id" = "563602", 
         "uri" = "563602-nabidka-prodej-bytu", 
         "keyAdvertType" = "estate_offer", 
@@ -2793,7 +4977,7 @@
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
-        "orderPriority" = 1, 
+        "orderPriority" = 0, 
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.053762499999998,\"lng\":14.509154800000033}", 
@@ -2985,7 +5169,7 @@
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
-        "orderPriority" = 1, 
+        "orderPriority" = 0, 
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.0000754,\"lng\":13.714787500000057}", 
@@ -3057,7 +5241,7 @@
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
-        "orderPriority" = 1, 
+        "orderPriority" = 0, 
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.145854200000002,\"lng\":14.441791899999998}", 
@@ -3105,7 +5289,7 @@
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
-        "orderPriority" = 1, 
+        "orderPriority" = 0, 
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.133852300000001,\"lng\":14.511837900000046}", 
@@ -3129,7 +5313,7 @@
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
-        "orderPriority" = 1, 
+        "orderPriority" = 0, 
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.024320899999999,\"lng\":14.431700299999989}", 
@@ -4037,7 +6221,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-13 09:10:09.000000", 
+            "date" = "2019-06-14 12:10:05.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -4085,7 +6269,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-06 08:34:19.000000", 
+            "date" = "2019-06-14 07:24:39.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -4661,7 +6845,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-09 15:50:05.000000", 
+            "date" = "2019-06-14 12:10:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -4829,7 +7013,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-09 11:10:05.000000", 
+            "date" = "2019-06-14 11:10:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -5285,7 +7469,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-08 21:30:03.000000", 
+            "date" = "2019-06-13 21:30:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -5597,7 +7781,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-13 10:10:10.000000", 
+            "date" = "2019-06-14 10:10:05.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -6797,7 +8981,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-07 08:03:44.000000", 
+            "date" = "2019-06-14 07:24:39.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -7325,7 +9509,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-09 11:30:02.000000", 
+            "date" = "2019-06-14 11:30:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -7373,7 +9557,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-09 09:40:02.000000", 
+            "date" = "2019-06-14 09:40:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -7589,7 +9773,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-13 06:16:04.000000", 
+            "date" = "2019-06-14 07:24:39.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -7613,7 +9797,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-08 23:50:03.000000", 
+            "date" = "2019-06-13 23:50:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -8149,7 +10333,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.4745828,\"lng\":13.410725899999989}", 
-                "price" = 344000, 
+                "price" = 343000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -8952,30 +11136,6 @@
         ]
     }, 
     {
-        "id" = "562409", 
-        "uri" = "562409-nabidka-prodej-bytu", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-06-11 08:10:02.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.131499299999987,\"lng\":14.418671399999994}", 
-                "price" = 3380000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 42, 
-                "id" = "562409"
-            }
-        ]
-    }, 
-    {
         "id" = "562400", 
         "uri" = "562400-nabidka-prodej-bytu", 
         "keyAdvertType" = "estate_offer", 
@@ -9053,7 +11213,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-06 08:34:19.000000", 
+            "date" = "2019-06-14 07:24:39.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -10493,7 +12653,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-05-24 21:14:49.000000", 
+            "date" = "2019-06-14 10:30:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -13549,7 +15709,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.127893299999997,\"lng\":14.501427700000022}", 
-                "price" = 3000000, 
+                "price" = 2990000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -15061,7 +17221,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":49.580957400000003,\"lng\":13.33187190000001}", 
-                "price" = 1880000, 
+                "price" = 1750000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -15637,7 +17797,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.045031199999997,\"lng\":14.444791399999986}", 
-                "price" = 4880000, 
+                "price" = 4500000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -15792,78 +17952,6 @@
         ]
     }, 
     {
-        "id" = "560853", 
-        "uri" = "560853-nabidka-prodej-bytu-aubrechtove-hlavni-mesto-praha", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-14 10:43:49.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.053587899999997,\"lng\":14.499757400000021}", 
-                "price" = 4499999, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "3-1", 
-                "surface" = 76, 
-                "id" = "560853"
-            }
-        ]
-    }, 
-    {
-        "id" = "560836", 
-        "uri" = "560836-nabidka-prodej-bytu-luhovska-hlavni-mesto-praha", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-14 08:03:27.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.127754099999997,\"lng\":14.439060199999972}", 
-                "price" = 4400000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-1", 
-                "surface" = 58, 
-                "id" = "560836"
-            }
-        ]
-    }, 
-    {
-        "id" = "560831", 
-        "uri" = "560831-nabidka-prodej-bytu-ovcarecka-kolin", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-14 06:56:00.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.035131900000003,\"lng\":15.20882000000006}", 
-                "price" = 2350000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "3-1", 
-                "surface" = 69, 
-                "id" = "560831"
-            }
-        ]
-    }, 
-    {
         "id" = "560819", 
         "uri" = "560819-ponuka-predaj-bytu-puskinova-topolcany", 
         "keyAdvertType" = "estate_offer", 
@@ -15912,78 +18000,6 @@
         ]
     }, 
     {
-        "id" = "560810", 
-        "uri" = "560810-nabidka-prodej-bytu-wednesbury-kladno", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-13 21:47:43.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.133338999999999,\"lng\":14.127210300000002}", 
-                "price" = 2680000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-1", 
-                "surface" = 62, 
-                "id" = "560810"
-            }
-        ]
-    }, 
-    {
-        "id" = "560804", 
-        "uri" = "560804-nabidka-prodej-bytu-zadverice-rakova", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-13 21:10:11.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":49.217073300000003,\"lng\":17.80456049999998}", 
-                "price" = 3699000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "3-kk", 
-                "surface" = 90, 
-                "id" = "560804"
-            }
-        ]
-    }, 
-    {
-        "id" = "560797", 
-        "uri" = "560797-nabidka-prodej-bytu-rozmberska-trebon", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-13 20:36:53.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":49.003957800000002,\"lng\":14.772601799999961}", 
-                "price" = 4560, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "4-kk", 
-                "surface" = 120, 
-                "id" = "560797"
-            }
-        ]
-    }, 
-    {
         "id" = "560795", 
         "uri" = "560795-nabidka-prodej-bytu-komenskeho-zbraslav", 
         "keyAdvertType" = "estate_offer", 
@@ -16004,30 +18020,6 @@
                 "keyDisposition" = "3-1", 
                 "surface" = 72, 
                 "id" = "560795"
-            }
-        ]
-    }, 
-    {
-        "id" = "560790", 
-        "uri" = "560790-nabidka-prodej-bytu-guldenerova-plzen-2-slovany", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-13 19:05:42.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":49.741302499999954,\"lng\":13.394074218749992}", 
-                "price" = 2099000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 50, 
-                "id" = "560790"
             }
         ]
     }, 
@@ -16541,7 +18533,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-05-27 14:00:03.000000", 
+            "date" = "2019-06-14 10:00:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -17093,7 +19085,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-05-16 18:10:03.000000", 
+            "date" = "2019-06-13 19:10:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -17208,26 +19200,26 @@
         ]
     }, 
     {
-        "id" = "560471", 
-        "uri" = "560471-nabidka-prodej-bytu", 
+        "id" = "560491", 
+        "uri" = "560491-nabidka-prodej-bytu-mostecka-teplice", 
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-05-14 06:56:22.000000", 
+            "date" = "2019-06-14 07:07:11.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
         "orderPriority" = 0, 
         "advertEstateOffer" = [
             {
-                "gps" = "{\"lat\":50.115304399999999,\"lng\":14.47217820000003}", 
-                "price" = 3250000, 
+                "gps" = "{\"lat\":50.633643799999987,\"lng\":13.817656100000022}", 
+                "price" = 759000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 36, 
-                "id" = "560471"
+                "keyDisposition" = "2-1", 
+                "surface" = 60, 
+                "id" = "560491"
             }
         ]
     }, 
@@ -17261,7 +19253,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-07 00:00:01.000000", 
+            "date" = "2019-06-14 00:00:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -17285,7 +19277,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-05-31 00:00:02.000000", 
+            "date" = "2019-06-14 00:00:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -27288,30 +29280,6 @@
         ]
     }, 
     {
-        "id" = "559902", 
-        "uri" = "559902-nabidka-prodej-bytu-rukavickarska-dobris", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-14 11:31:47.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":49.790331799999997,\"lng\":14.177541199999951}", 
-                "price" = 3050000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "3-1", 
-                "surface" = 78, 
-                "id" = "559902"
-            }
-        ]
-    }, 
-    {
         "id" = "559882", 
         "uri" = "559882-nabidka-prodej-bytu-svazacka-ostrava-mesto", 
         "keyAdvertType" = "estate_offer", 
@@ -28397,7 +30365,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-09 07:50:02.000000", 
+            "date" = "2019-06-14 07:50:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -28637,7 +30605,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-05 07:40:04.000000", 
+            "date" = "2019-06-14 07:40:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -29660,30 +31628,6 @@
                 "keyDisposition" = "2-kk", 
                 "surface" = 46, 
                 "id" = "558588"
-            }
-        ]
-    }, 
-    {
-        "id" = "558550", 
-        "uri" = "558550-nabidka-prodej-bytu", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-06-02 18:30:02.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.045311499999997,\"lng\":14.33716800000002}", 
-                "price" = 3900000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 43, 
-                "id" = "558550"
             }
         ]
     }, 
@@ -30989,7 +32933,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-05-11 09:14:46.000000", 
+            "date" = "2019-06-14 09:50:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -31357,7 +33301,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.083497899999998,\"lng\":14.452021800000011}", 
-                "price" = 8625000, 
+                "price" = 8214000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -31733,7 +33677,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-05 10:10:09.000000", 
+            "date" = "2019-06-14 10:10:04.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -32693,7 +34637,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-10 15:10:05.000000", 
+            "date" = "2019-06-14 09:16:56.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -32725,7 +34669,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.083497899999998,\"lng\":14.452021800000011}", 
-                "price" = 5998000, 
+                "price" = 5482000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -33317,7 +35261,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-10 15:10:04.000000", 
+            "date" = "2019-06-14 09:10:07.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -33613,7 +35557,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":49.7836043,\"lng\":14.170547400000032}", 
-                "price" = 3500000, 
+                "price" = 3600000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -33917,7 +35861,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-04-12 00:00:01.000000", 
+            "date" = "2019-06-14 00:00:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -33941,7 +35885,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-05-17 00:00:02.000000", 
+            "date" = "2019-06-14 00:00:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -33965,7 +35909,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-07 00:00:02.000000", 
+            "date" = "2019-06-14 00:00:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -35789,7 +37733,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-04 14:00:05.000000", 
+            "date" = "2019-06-14 10:34:43.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -35797,7 +37741,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.482717200000003,\"lng\":14.027567699999963}", 
-                "price" = 1590000, 
+                "price" = 1490000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -36965,7 +38909,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-13 08:00:03.000000", 
+            "date" = "2019-06-14 08:00:02.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -38237,7 +40181,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-05 14:50:09.000000", 
+            "date" = "2019-06-14 10:40:04.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -38677,7 +40621,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":49.8418031,\"lng\":18.179263799999944}", 
-                "price" = 1850000, 
+                "price" = 1820000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -39053,7 +40997,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-13 08:25:36.000000", 
+            "date" = "2019-06-13 20:00:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -40685,7 +42629,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-11 14:10:06.000000", 
+            "date" = "2019-06-14 09:10:05.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -40872,30 +42816,6 @@
         ]
     }, 
     {
-        "id" = "551334", 
-        "uri" = "551334-nabidka-prodej-bytu-na-vysoke-i-hlavni-mesto-praha", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-07 20:10:03.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.058144400000003,\"lng\":14.381183700000065}", 
-                "price" = 10900000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 70, 
-                "id" = "551334"
-            }
-        ]
-    }, 
-    {
         "id" = "551326", 
         "uri" = "551326-nabidka-prodej-bytu", 
         "keyAdvertType" = "estate_offer", 
@@ -41021,7 +42941,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-05-22 07:50:04.000000", 
+            "date" = "2019-06-14 07:24:39.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -41492,30 +43412,6 @@
                 "keyDisposition" = "3-kk", 
                 "surface" = 75, 
                 "id" = "550820"
-            }
-        ]
-    }, 
-    {
-        "id" = "550817", 
-        "uri" = "https://www.bezrealitky.cz/nove-bydleni/vzorova-nemovitost/645/23350#utm_source=bezrealitky.cz&utm_medium=odkaz&utm_campaign=detail_inzeratu", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "iDeveloper", 
-        "timeOrder" = {
-            "date" = "2019-04-02 00:00:02.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":\"50.0567820645\",\"lng\":\"14.4622761418\"}", 
-                "price" = 5665482, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 54, 
-                "id" = "550817"
             }
         ]
     }, 
@@ -42389,7 +44285,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-13 09:37:01.000000", 
+            "date" = "2019-06-14 09:18:14.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -42413,7 +44309,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-13 09:37:01.000000", 
+            "date" = "2019-06-14 09:18:14.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -42557,7 +44453,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-13 09:08:56.000000", 
+            "date" = "2019-06-14 09:10:06.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -43253,7 +45149,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-11 09:10:07.000000", 
+            "date" = "2019-06-14 09:10:04.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -43733,7 +45629,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-05-20 06:44:59.000000", 
+            "date" = "2019-06-14 07:24:39.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -46021,7 +47917,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":\"50.0630804000\",\"lng\":\"14.4466826000\"}", 
-                "price" = 5890000, 
+                "price" = 5790000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -48845,7 +50741,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "iDeveloper", 
         "timeOrder" = {
-            "date" = "2019-06-06 08:34:19.000000", 
+            "date" = "2019-06-14 07:24:39.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -49405,7 +51301,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":49.0614414,\"lng\":17.463167800000065}", 
-                "price" = 2180000, 
+                "price" = 2222000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -49565,7 +51461,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-09 12:30:17.000000", 
+            "date" = "2019-06-14 12:30:05.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -51024,6 +52920,30 @@
         ]
     }, 
     {
+        "id" = "541990", 
+        "uri" = "541990-nabidka-prodej-bytu", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2019-06-13 22:13:33.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.004022399999997,\"lng\":14.406076299999995}", 
+                "price" = 7990000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "2-kk", 
+                "surface" = 102, 
+                "id" = "541990"
+            }
+        ]
+    }, 
+    {
         "id" = "541981", 
         "uri" = "541981-nabidka-prodej-bytu", 
         "keyAdvertType" = "estate_offer", 
@@ -52392,30 +54312,6 @@
         ]
     }, 
     {
-        "id" = "535407", 
-        "uri" = "535407-nabidka-prodej-bytu", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-27 09:20:03.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.070461899999998,\"lng\":14.379436400000031}", 
-                "price" = 4380000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-1", 
-                "surface" = 66, 
-                "id" = "535407"
-            }
-        ]
-    }, 
-    {
         "id" = "535321", 
         "uri" = "535321-nabidka-prodej-bytu-hollarovo-namesti", 
         "keyAdvertType" = "estate_offer", 
@@ -52501,7 +54397,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.090489499999997,\"lng\":14.469889800000033}", 
-                "price" = 7100000, 
+                "price" = 7000000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -52517,7 +54413,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-09 12:50:03.000000", 
+            "date" = "2019-06-14 10:40:03.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -53197,12 +55093,12 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":50.7614433,\"lng\":15.071820099999968}", 
-                "price" = 1390000, 
+                "price" = 1340000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
                 "keyDisposition" = "1-kk", 
-                "surface" = 30, 
+                "surface" = 29, 
                 "id" = "529311"
             }
         ]
@@ -53496,30 +55392,6 @@
         ]
     }, 
     {
-        "id" = "525429", 
-        "uri" = "525429-nabidka-prodej-bytu-stredni-popuvky", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-14 11:20:23.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":49.1834908,\"lng\":16.48876150000001}", 
-                "price" = 3186000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "2-kk", 
-                "surface" = 61, 
-                "id" = "525429"
-            }
-        ]
-    }, 
-    {
         "id" = "525315", 
         "uri" = "525315-nabidka-prodej-bytu-cervene-pecky", 
         "keyAdvertType" = "estate_offer", 
@@ -53533,7 +55405,7 @@
         "advertEstateOffer" = [
             {
                 "gps" = "{\"lat\":49.9782175,\"lng\":15.208566000000019}", 
-                "price" = 990000, 
+                "price" = 960000, 
                 "currency" = "CZK", 
                 "keyOfferType" = "prodej", 
                 "keyEstateType" = "byt", 
@@ -53736,36 +55608,12 @@
         ]
     }, 
     {
-        "id" = "522356", 
-        "uri" = "522356-nabidka-prodej-bytu-u-hadich-lazni-teplice", 
-        "keyAdvertType" = "estate_offer", 
-        "type" = "", 
-        "timeOrder" = {
-            "date" = "2019-05-14 08:15:19.000000", 
-            "timezone_type" = 3, 
-            "timezone" = "Europe/Prague"
-        }, 
-        "orderPriority" = 0, 
-        "advertEstateOffer" = [
-            {
-                "gps" = "{\"lat\":50.6415772,\"lng\":13.842028400000004}", 
-                "price" = 2100000, 
-                "currency" = "CZK", 
-                "keyOfferType" = "prodej", 
-                "keyEstateType" = "byt", 
-                "keyDisposition" = "3-kk", 
-                "surface" = 110, 
-                "id" = "522356"
-            }
-        ]
-    }, 
-    {
         "id" = "522256", 
         "uri" = "522256-nabidka-prodej-bytu-strizkovska-hlavni-mesto-praha", 
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-05-28 09:10:06.000000", 
+            "date" = "2019-06-13 20:10:04.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
@@ -54672,6 +56520,30 @@
         ]
     }, 
     {
+        "id" = "500416", 
+        "uri" = "500416-nabidka-prodej-bytu-resslova-usti-nad-labem-mesto", 
+        "keyAdvertType" = "estate_offer", 
+        "type" = "", 
+        "timeOrder" = {
+            "date" = "2018-04-26 17:30:02.000000", 
+            "timezone_type" = 3, 
+            "timezone" = "Europe/Prague"
+        }, 
+        "orderPriority" = 0, 
+        "advertEstateOffer" = [
+            {
+                "gps" = "{\"lat\":50.6667079,\"lng\":14.020624099999964}", 
+                "price" = 2399000, 
+                "currency" = "CZK", 
+                "keyOfferType" = "prodej", 
+                "keyEstateType" = "byt", 
+                "keyDisposition" = "4-1", 
+                "surface" = 80, 
+                "id" = "500416"
+            }
+        ]
+    }, 
+    {
         "id" = "498052", 
         "uri" = "498052-nabidka-prodej-bytu-nad-zamkem-trebic", 
         "keyAdvertType" = "estate_offer", 
@@ -55493,7 +57365,7 @@
         "keyAdvertType" = "estate_offer", 
         "type" = "", 
         "timeOrder" = {
-            "date" = "2019-06-12 12:03:21.000000", 
+            "date" = "2019-06-14 11:20:07.000000", 
             "timezone_type" = 3, 
             "timezone" = "Europe/Prague"
         }, 
